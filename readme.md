@@ -29,4 +29,5 @@ Auxiliar iniciantes, explicando conceitos de investimentos e a diferença entre 
 - Fontes abertas em PDF, artigos e vídeos
 
 ## Conclusão
+
 Este projeto demonstra como a IA pode ser aplicada na educação financeira, oferecendo um guia prático e acessível para iniciantes compreenderem conceitos fundamentais de investimentos.
