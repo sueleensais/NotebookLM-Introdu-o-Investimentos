@@ -9,6 +9,9 @@ A partir desse material, são definidos objetivos de estudo, elaboradas pergunta
 O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis que apoiem futuras revisões.  
 A atividade enfatiza o uso da IA como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
 
+## Tema do NotebookLM
+Introdução a Investimentos
+
 ## Objetivo
 Auxiliar iniciantes, explicando conceitos de investimentos e a diferença entre renda fixa e variável, risco e retorno.
 
@@ -31,3 +34,4 @@ Auxiliar iniciantes, explicando conceitos de investimentos e a diferença entre 
 ## Conclusão
 
 Este projeto demonstra como a IA pode ser aplicada na educação financeira, oferecendo um guia prático e acessível para iniciantes compreenderem conceitos fundamentais de investimentos.
+
